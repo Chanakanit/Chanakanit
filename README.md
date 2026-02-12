@@ -3,8 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,vue,tailwind,react,java" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql" alt="Tech Stack">
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,react" alt="Frameworks">
+</p>
+
 
 <p align="center">
   <a href="https://www.facebook.com/chanakan.unkhaow.2025" target="_blank">
