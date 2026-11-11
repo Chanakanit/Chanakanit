@@ -1,37 +1,39 @@
 # Hi, I'm Big 👋
 
-I'm an Information Technology student at KMUTT.
+**IT Student | KMUTT**
 
-### Tech Stack
-
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" />
 </p>
 
+### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,supabase" />
 </p>
 
-### Find me
-
+### Tools
 <p align="left">
-  <a href="https://www.facebook.com/chanakan.unkhaow.2025" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</p>
+
+### Connect with me
+<p align="left">
+  <a href="https://chanakanit.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Chanakanit" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  <a href="https://github.com/Chanakanit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/b.bigo.o" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  <a href="https://www.facebook.com/chanakan.unkhaow.2025">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://chanakanit.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat&logo=vercel&logoColor=white" height="32" />
+  <a href="https://www.instagram.com/b.bigo.o">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
