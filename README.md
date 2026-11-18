@@ -1,39 +1,31 @@
-# Hi, I'm Big 👋
+# Hey, I'm Big 👋
 
-**IT Student | KMUTT**
+**IT Student @ KMUTT**
 
-### Languages
-<p align="left">
+I build web applications, connect services, and occasionally get carried away exploring how things work behind the scenes.
+
+A lot of my projects involve more than just building a UI. I've worked on things like financial tracking with AI-powered bookkeeping, a multimodal English tutor, and systems that bring APIs, databases, and authentication together.
+
+### What I'm Working With
+
+Most of my projects revolve around:
+
+- **Full-stack Development** — From frontend interactions to backend logic and database design.
+- **AI Integration** — Exploring how models like Gemini can become part of an actual application's workflow, rather than just a chatbot.
+- **System Integration** — Connecting APIs, third-party services, authentication, and different parts of an application.
+
+### My Toolbox
+
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,spring" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,postman,figma" />
 </p>
 
-### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,mysql,supabase" />
-</p>
+### Find Me
 
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
-</p>
-
-### Connect with me
-<p align="left">
-  <a href="https://chanakanit.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Chanakanit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/chanakan.unkhaow.2025">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/b.bigo.o">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://chanakanit.vercel.app/) · [Email](mailto:chanakanbbig@gmail.com) · [Instagram](https://www.instagram.com/b.bigo.o)
